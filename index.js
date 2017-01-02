@@ -22,7 +22,11 @@ function getData(key){
     return both('get', key);
 }
 
-module.exports = {
-    saveData : saveData,
-    getData  : getData
+try {
+    module.exports = {
+        saveData : saveData,
+        getData  : getData
+    }    
+} catch (err){
+    // Using like a library
 }
