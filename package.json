@@ -1,6 +1,6 @@
 {
   "name": "localstorage-manipulator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get and save data in localStorage easily.",
   "main": "index.js",
   "scripts": {

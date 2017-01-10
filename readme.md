@@ -9,7 +9,7 @@ Using LocalStorage Manipulator you can:
 ##### Using like a node_module [server-side building (Browserify, etc)]
 ###### IN NODE_MODULES ROOT FOLDER:
 ```sh
-$ npm install https://github.com/mpahenrique/localstorage-manipulator.git --save
+$ npm install localstorage-manipulator --save
 ```
 ##### Using like a library
 ###### IN YOUR HTML:
